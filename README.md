@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaP1998
-- 👀 I’m interested in Design Verification  
-- 🌱 I’m currently learning PCIe, Ethernet
+- 👀 Design Verification Engineer 
+- 🌱 expertice in PCIe[Data link layer], Ethernet
 - 📫 How to reach me patiladitya577@gmail.com
 
 
