@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdityaP1998
-- 👀 Design Verification Engineer 
-- 🌱 expertice in PCIe[Data link layer], Ethernet
-- 📫 How to reach me patiladitya577@gmail.com
+
+-  Design Verification Engineer 
+-  expertice in PCIe[Data link layer], Ethernet, AMBA APB, AXI
+-  patiladitya577@gmail.com
 
 
 <!---
