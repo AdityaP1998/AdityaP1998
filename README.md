@@ -1,6 +1,6 @@
 
 -  Design Verification Engineer 
--  expertice in PCIe[Data link layer], Ethernet, AMBA APB, AXI
+-  expertise in PCIe[Data link layer], Ethernet, AMBA APB, AXI
 -  patiladitya577@gmail.com
 
 
